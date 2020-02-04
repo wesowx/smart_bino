@@ -5,7 +5,7 @@ const ImageLinkForm = ({onClick, onInputChange}) => {
   return(
     <div>
       <p className='f3 white'>
-        {'This Magic Binoculars will detect faces in your pictures!'}
+        {'This Magic Binoculars will detect faces in your pictures! Simply insert links to images and click \"Detect\"'}
       </p>
       <div className='center'>
         <div className='pa4 br3 shadow-5 center form'>
